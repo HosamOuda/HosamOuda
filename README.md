@@ -43,6 +43,6 @@ https://tenor.com/view/programmer-gif-19019116
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C" width="40" height="40"/>
 <img src="https://e7.pngegg.com/pngimages/270/765/png-clipart-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-thumbnail.png" alt="Unity" width="40" height="40"/>
-  
-<a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<img src="https://iconape.com/wp-content/png_logo_vector/postman.png" alt="Postman" width="40" height="40"/>
+<img src="  https://mpng.subpng.com/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-5b8e9698822d99.0636011515360713205332.jpg" alt="PHP" width="40" height="40"/>
 </p>
