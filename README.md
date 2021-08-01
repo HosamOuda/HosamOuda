@@ -42,7 +42,7 @@ https://tenor.com/view/programmer-gif-19019116
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C" width="40" height="40"/>
-<img src="https://e7.pngegg.com/pngimages/270/765/png-clipart-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-thumbnail.png" alt="Unity" width="40" height="40"/>
+<img src="https://www.praevidi.com/files/2214/4788/3983/unity.logo.jpg" alt="Unity" width="40" height="40"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/postman.png" alt="Postman" width="40" height="40"/>
-<img src="  https://mpng.subpng.com/20180904/xhu/kisspng-logo-image-computer-icons-php-portable-network-gra-william-davies-meng-mongodb-5b8e9698822d99.0636011515360713205332.jpg" alt="PHP" width="40" height="40"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" alt="PHP" width="40" height="40"/>
 </p>
