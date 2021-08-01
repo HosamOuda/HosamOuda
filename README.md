@@ -32,8 +32,17 @@ https://tenor.com/view/programmer-gif-19019116
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="Go" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="JAVA" width="40" height="40"/> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySql" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Nodejs" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain-wordmark.svg" alt="Rails" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C" width="40" height="40"/>
+<img src="https://e7.pngegg.com/pngimages/270/765/png-clipart-unity-logo-illustration-unity-game-engine-logo-video-game-corelle-brands-angle-text-thumbnail.png" alt="Unity" width="40" height="40"/>
   
 <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
 </p>
