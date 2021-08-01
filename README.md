@@ -1,23 +1,24 @@
 [![MasterHead](https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)](https://github.com/HosamOuda)
-### Hi there 👋 I am Hossameldin Ouda
+<h2 align="center">  Hi Everyone 👋 I am Hossameldin Ouda </h3><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+<h3 align="center">🔭 I’m currently a fresh graduate Computer & Communication Engineer 🎓</h3><br>
+<!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosamOuda&show_icons=true&theme=tokyonight)
+- ⚡ Fun fact: ... -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosamOuda&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosamOuda&layout=compact&count-private=true)](https://github.com/HosamOuda/github-readme-stats)
+
+![Coding](https://tenor.com/view/programmer-gif-19019116)
+<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116">
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HosamOuda)](https://git.io/streak-stats) -->
 
 
-![](name-of-giphy.gif)
-![Alt Text](https://tenor.com/view/programmer-gif-19019116)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosamOuda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Bitbucket" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" alt="Atom" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>  
