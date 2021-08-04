@@ -10,12 +10,11 @@
 * 👯 I’m looking to collaborate on : Open source & Highly Scalable Projects
 * 📫 How to reach me on : hosam.tarek3@gmail.com
 
-<br><h2>Find me on</h2>
+<br><h2>Find me on </h2>
 <p align="center"> 
 <a href="https://www.linkedin.com/in/hossameldin-ouda-130524181/" target="blank"><img align="center" src="https://github.com/HosamOuda/HosamOuda/blob/main/4102586_applications_linkedin_social_social%20media_icon.png" height="33" width="33" /></a> &nbsp;&nbsp;
 <a href="https://www.facebook.com/hosam.tarek.378/" target="blank"><img align="center" src="https://github.com/HosamOuda/HosamOuda/blob/main/5296500_fb_social%20media_facebook_facebook%20logo_social%20network_icon.png" height="35" width="35" /></a> &nbsp;&nbsp;
 <a href="https://github.com/HosamOuda" target="blank"><img align="center" src="https://github.com/HosamOuda/HosamOuda/blob/main/4202098_github_code_developer_logo_icon.png"  height="35" width="35" /></a>&nbsp;&nbsp;
-
 </p>
 
 <!-- ![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight) -->
@@ -49,5 +48,5 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" alt="C" width="40" height="40"/>
 <img src="https://www.praevidi.com/files/2214/4788/3983/unity.logo.jpg" alt="Unity" width="40" height="40"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/postman.png" alt="Postman" width="40" height="40"/>
-<img src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png" alt="PHP" width="40" height="40"/>
+<img src="https://github.com/HosamOuda/HosamOuda/blob/main/3069654_circle_php_programming_programming%20language_round%20icon_icon.png" alt="PHP" width="40" height="40"/>
 </p>
