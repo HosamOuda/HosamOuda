@@ -1,26 +1,33 @@
-[![MasterHead](https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)](https://github.com/HosamOuda)
+<!-- [![MasterHead](https://cdn.cultofmac.com/wp-content/uploads/2017/04/CoM-Pay-What-You-Want-Learn-to-Code-2017-Bundle.jpg)](https://github.com/HosamOuda) -->
+<p align ="center"><img width="100%" alt="Coding"  src="https://github.com/HosamOuda/HosamOuda/blob/main/tenor.gif"></p>
 <h2 align="center">  Hi Everyone 👋 I am Hossameldin Ouda </h3><br>
 
-<h3 align="center">🔭 I’m currently a fresh graduate Computer & Communication Engineer 🎓</h3><br>
-<!-- - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+<h3 align="center"> I’m currently a fresh graduate Computer & Communication Engineer 🎓</h3>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HosamOuda&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosamOuda&layout=compact&count-private=true)](https://github.com/HosamOuda/github-readme-stats)
+* 💼 Former Backend Engineer Intern at Trianglz LLC Company
+* 🌱 I’m currently learning : Ruby on Rails , Golang , React with Redux
+* 👯 I’m looking to collaborate on : Open source & Highly Scalable Projects
+* 📫 How to reach me on : hosam.tarek3@gmail.com
 
-![Coding](https://tenor.com/view/programmer-gif-19019116)
-<img align="right" alt="Coding" width="400" src="https://tenor.com/view/programmer-gif-19019116">
+<br><h2>Find me on</h2>
+<p align="center"> 
+<a href="https://www.linkedin.com/in/hossameldin-ouda-130524181/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Kb7cOQPxLYWNxwevUd0mTZuiQEqPg_UqButc1c_qU698K6lt-rBmYm4ZB5cdz6bOryc&usqp=CAU" height="33" width="33" /></a> &nbsp;&nbsp;
+<a href="https://www.facebook.com/hosam.tarek.378/" target="blank"><img align="center" src="https://icon-library.com/images/high-resolution-facebook-icon/high-resolution-facebook-icon-7.jpg" height="35" width="35" /></a> &nbsp;&nbsp;
+<a href="https://github.com/HosamOuda" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSioSRXBeAWW2v5rEA3qul28iWyUx3H5i70OavIBL3MuknaqGc4ejV9oHXtsrggAKktTsA&usqp=CAU"  height="35" width="35" /></a>&nbsp;&nbsp;
+
+</p>
+
+<!-- ![Hossam's GitHub stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=tokyonight) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HosamOuda&layout=compact)](https://github.com/HosamOuda/github-readme-stats) -->
+
+
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HosamOuda)](https://git.io/streak-stats) -->
 
 
-<h3 align="center">Languages and Tools:</h3>
+<br><h2 align="left">Languages and Tools:</h2><br>
 <p align="center"> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" alt="Bitbucket" width="40" height="40"/>  
-<img src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original-wordmark.svg" alt="Atom" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>  
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>  
