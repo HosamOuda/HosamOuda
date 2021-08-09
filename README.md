@@ -7,7 +7,7 @@
 * 🏫 Bachelor Degree in Computer & Communication Engineering From Faculty of Engineering , Alexandria University
 * 💼 Former Backend Engineer Intern at Trianglz LLC Company
 * 🌱 I’m currently learning : Ruby on Rails , Golang , React with Redux
-* 👯 I’m looking to collaborate on : Open source & Highly Scalable Projects or any Biomedical Engineering Projects 
+* 👯 I’m looking to collaborate on : Open source & Highly Scalable Projects or Biomedical Engineering Projects 
 * 📫 How to reach me on : hosam.tarek3@gmail.com
 
 <br><h2>Find me on </h2>
