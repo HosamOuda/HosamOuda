@@ -6,7 +6,7 @@
 
 * 🏫 Bachelor Degree in Computer & Communication Engineering From Faculty of Engineering , Alexandria University
 * 💼 Former Backend Engineer Intern at Trianglz LLC Company
-* 🌱 I’m currently learning : Ruby on Rails , Golang , React with Redux
+* 🌱 I’m currently learning : Ruby on Rails , Golang 
 * 👯 I’m looking to collaborate on : Open source & Highly Scalable Projects or Biomedical Engineering Projects 
 * 📫 How to reach me on : hosam.tarek3@gmail.com
 
@@ -49,4 +49,5 @@
 <img src="https://www.praevidi.com/files/2214/4788/3983/unity.logo.jpg" alt="Unity" width="40" height="40"/>
 <img src="https://iconape.com/wp-content/png_logo_vector/postman.png" alt="Postman" width="40" height="40"/>
 <img src="https://github.com/HosamOuda/HosamOuda/blob/main/3069654_circle_php_programming_programming%20language_round%20icon_icon.png" alt="PHP" width="40" height="40"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
 </p>
