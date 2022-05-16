@@ -2,11 +2,13 @@
 <p align ="center"><img width="100%" alt="Coding"  src="https://github.com/HosamOuda/HosamOuda/blob/main/tenor.gif"></p>
 <h2 align="center">  Hi Everyone 👋 I am Hossameldin Ouda </h3><br>
 
-<h3 align="center"> I’m currently a Fresh Graduate As a Computer Engineer 🎓</h3>
+<h3 align="center"> I’m currently a Junior Software Engineer 🎓</h3>
 
 * 🏫 Bachelor Degree in Computer & Communication Engineering From Faculty of Engineering , Alexandria University
-* 💼 Former Backend Engineer Intern at Trianglz LLC Company
-* 🌱 I’m currently learning : Ruby on Rails , Golang 
+* 💼 Current Position : Junior Software Engineer in Poet Egypt LLC
+* 💼 Former Full Stack Engineer at Silicon Mind
+* 💼 Former Backend Engineer Intern at Trianglz LLC 
+* 🌱 I’m currently learning : Ruby on Rails , Golang , Hybris
 * 👯 I’m looking to collaborate on : Open source & Highly Scalable Projects or Biomedical Engineering Projects 
 * 📫 How to reach me on : hosam.tarek3@gmail.com
 
