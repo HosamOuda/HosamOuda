@@ -5,7 +5,8 @@
 <h3 align="center"> I’m currently a Junior Software Engineer 🎓</h3>
 
 * 🏫 Bachelor Degree in Computer & Communication Engineering From Faculty of Engineering , Alexandria University
-* 💼 Current Position : Junior Software Engineer in Poet Egypt LLC
+* 💼 Currently Pursuing my MASc degree in Software Engineering at Ontario Tech University, Oshawa, Canada and a member in Ontario Tech's IoT Lab
+* 💼 Former Junior Software Engineer in All for One Egypt ( previously POET Egypt LLC)
 * 💼 Former Full Stack Engineer at Silicon Mind
 * 💼 Former Backend Engineer Intern at Trianglz LLC 
 * 🌱 I’m currently learning : Ruby on Rails , Golang , Hybris
