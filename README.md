@@ -2,14 +2,13 @@
 <p align ="center"><img width="100%" alt="Coding"  src="https://github.com/HosamOuda/HosamOuda/blob/main/tenor.gif"></p>
 <h2 align="center">  Hi Everyone 👋 I am Hossameldin Ouda </h3><br>
 
-<h3 align="center"> I’m currently a Software Engineer 🎓</h3>
+<h3 align="center"> I’m currently an Intermidate Software Engineer 🎓</h3>
 
 * 💼 Currently Pursuing my MASc degree in Software Engineering at Ontario Tech University, Oshawa, Canada and a member in Ontario Tech's IoT Lab
 * 🏫 Bachelor Degree in Computer & Communication Engineering From Faculty of Engineering , Alexandria University
 * 💼 Former Junior Software Engineer in All for One Egypt ( previously POET Egypt LLC )
 * 💼 Former Full Stack Engineer at Silicon Mind
 * 💼 Former Backend Engineer Intern at Trianglz LLC 
-* 🌱 I’m currently learning : Ruby on Rails , Golang , Hybris
 * 👯 I’m looking to collaborate on : Open source & Highly Scalable Projects or Biomedical Engineering Projects 
 * 📫 How to reach me on : hosam.tarek3@gmail.com
 
