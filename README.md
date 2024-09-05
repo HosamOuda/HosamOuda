@@ -4,8 +4,8 @@
 
 <h3 align="center"> I’m currently an Intermidate Software Engineer 🎓</h3>
 
-* 💼 Currently Pursuing my MASc degree in Software Engineering at Ontario Tech University, Oshawa, Canada and a member in Ontario Tech's IoT Lab
-* 🏫 Bachelor Degree in Computer & Communication Engineering From Faculty of Engineering , Alexandria University
+* 💼 MASc holder in Computer and Electrical Engineering from Ontario Tech University, Oshawa, Canada 
+* 🏫 Bachelor's Degree in Computer & Communication Engineering From the Faculty of Engineering, Alexandria University
 * 💼 Former Junior Software Engineer in All for One Egypt ( previously POET Egypt LLC )
 * 💼 Former Full Stack Engineer at Silicon Mind
 * 💼 Former Backend Engineer Intern at Trianglz LLC 
